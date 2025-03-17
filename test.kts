@@ -1,6 +1,6 @@
 fun main() {
     // Calling the greet function
-    greet("John")
+    greet("Jo")
 
     // Adding two numbers and printing the result
     val sum = addNumbers(5, 7)
